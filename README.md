@@ -4,9 +4,11 @@
 
 Hi, my name is Bryant. I'm a computer science major and I took this class because I needed an upper division writing class based on CS, CINS or MATH. Turns out this class is so interesting about how the we come up with ideas and get to know how users think. I find it very useful!
 
+## UX Journal
+
+
+
 ## UX Team Project
 
-
-## UX Journal
 
 [Read about my experience with Bash](j01/)
