@@ -4,7 +4,7 @@
 
 [Back to Home](https://github.com/UsabilityEngineering/ux-portfolio-bhoang1998)
 
-![](ux-portfolio-bhoang1998/assets/Standing_Desk.jpg)
+![](assets/Standing_Desk.jpg)
 
 The Autonomous Edition Smart Hybrid Dual Motor Electric Standing Desk Frame is a decent design that has a few options that seem self explanatory, but could use with a little context. This desk changes height based on the user's preference, but you need to adjust this using the buttons.
 
