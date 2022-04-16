@@ -7,6 +7,7 @@ Hi, my name is Bryant. I'm a computer science major and I took this class becaus
 ## UX Journal
 
 [Journal Entry 01](j01/)
+[Journal Entry 02](j02/)
 
 ## UX Team Project
 
